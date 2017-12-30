@@ -1,0 +1,77 @@
+html,body{
+	height:100%;
+}
+
+body{
+	/*background: #000000;  
+	background: -webkit-linear-gradient(to right, #434343, #000000);  
+	background: linear-gradient(to right, #434343, #000000); */
+	font-family: 'Titillium Web', sans-serif;
+}
+.navbar{
+	margin-bottom: 0;
+}
+
+#pc{
+	background: #000000;  
+	background: -webkit-linear-gradient(to right, #434343, #000000);  
+	background: linear-gradient(to right, #434343, #000000);
+	margin-top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.floating{
+	float:right;
+}
+
+.src-form{
+	padding-left:10%;
+}
+
+.jumbotron{
+	background-color: white;
+}
+
+.discountPrice{
+    text-decoration: line-through;
+}
+
+.imgShoes{
+	width: 40%;
+	height: 40%;
+	align-self: left;
+}
+
+.realPrice{
+	color :red;
+}
+
+.thumbnail{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-top: 5%;
+}
+
+#sc{
+	background-color: #EEEEEE;
+	width: 100%;
+}
+
+.circular--square {
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+  width: 50%;
+  height: 50%;
+}
+
+#testimony{
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 75px;
+}
+
+.thumbnail{
+	width: 360px;
+	height: 400px;
+}
