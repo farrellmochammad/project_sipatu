@@ -1,4 +1,4 @@
-
+//Pake ini buat slide Show Non Otomatis
 // var slideIndex = 1;
 // showSlides(slideIndex);
 
@@ -29,6 +29,7 @@
 // }
 
 /////////////////////////////////////////////////////
+//Pake ini buat slideshow otomatis
 var slideIndex = 0;
 showSlides();
 
